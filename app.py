@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-# ── Pipeline imports ───────────────────────────────────────────────────────
+
 from modules.dashboard.layout_manager import render_kpi_row, render_chart_grid, sidebar_navigation
 from modules.data_ingestion.file_uploader import handle_upload, register_dataset_in_db
 from modules.data_ingestion.url_importer import download_from_url
@@ -31,10 +31,6 @@ from modules.data_ingestion.file_uploader import handle_upload, register_dataset
 initialize_working_directories()
 init_db()
 
-
-# ══════════════════════════════════════════════════════════════════════════
-#  Global CSS
-# ══════════════════════════════════════════════════════════════════════════
 def inject_global_css():
     st.markdown(
         """

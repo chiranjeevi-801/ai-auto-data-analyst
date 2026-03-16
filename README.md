@@ -5,11 +5,11 @@
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
-| 📂 **Data Ingestion** | Upload CSV/Excel, import from URL, or search & download Kaggle datasets |
+|  **Data Ingestion** | Upload CSV/Excel, import from URL, or search & download Kaggle datasets |
 | 🧹 **Auto Cleaning** | Remove duplicates, impute missing values, standardize column names |
 | ✅ **Validation** | Schema checks, empty-column and zero-variance detection |
 | 📤 **Export** | Download cleaned data as CSV, Excel, or SQL dump |
