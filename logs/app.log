@@ -1,0 +1,343 @@
+2026-03-16 17:29:09,195 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:09,204 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:23,506 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:28,976 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:32,698 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:38,579 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:43,060 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:47,090 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:49,369 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:56,846 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:29:59,040 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:30:05,209 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:32:31,455 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:32:32,908 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:32:32,928 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 17:32:33,120 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 17:32:50,812 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:32:54,997 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:32:55,102 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 17:32:55,141 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 17:33:30,263 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:30,310 - AI_Auto_Data_Analyst - INFO - Dataset successfully converted to csv at C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\exports\messy_dataset_200_rows_cleaned.csv
+2026-03-16 17:33:37,894 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:39,480 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:39,544 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:42,501 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:42,541 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:43,012 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:43,050 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:43,166 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:43,222 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:43,338 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:43,394 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:43,511 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:43,570 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:43,721 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:43,766 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:47,428 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:47,467 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:33:53,629 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:33:55,965 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:03,608 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:06,106 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:07,946 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:09,380 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:10,109 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:12,120 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:14,925 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:20,047 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:21,387 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:21,407 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 17:34:21,524 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 17:34:29,819 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:29,835 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 17:34:29,934 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 17:34:32,299 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:32,318 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 17:34:32,415 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 17:34:41,736 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:43,899 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:43,930 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 17:34:43,976 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 17:34:49,327 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:34:52,365 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:29,496 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:35,480 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:40,194 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:41,588 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:41,611 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 17:39:41,940 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 17:39:47,318 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:48,853 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:48,943 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 17:39:49,011 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 17:39:55,383 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:39:58,588 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:03,277 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:05,604 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:07,891 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:07,952 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:40:10,201 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:10,242 - AI_Auto_Data_Analyst - ERROR - Failed to convert dataset to excel: No module named 'xlsxwriter'
+2026-03-16 17:40:14,153 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:14,221 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 17:40:14,227 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 17:40:14,315 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 17:40:14,343 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 17:40:18,515 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:18,561 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 17:40:18,568 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 17:40:18,618 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 17:40:18,636 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 17:40:23,798 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:23,841 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 17:40:23,847 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 17:40:23,912 - AI_Auto_Data_Analyst - INFO - Statistics computed for column rating
+2026-03-16 17:40:23,928 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 17:40:35,800 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:37,756 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:37,775 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 17:40:39,951 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 17:40:56,424 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:40:56,466 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 17:40:56,484 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 17:40:56,488 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 17:41:06,120 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:42:10,160 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:42:10,350 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:42:18,544 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:42:19,939 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:42:19,978 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 17:42:19,998 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 17:42:20,001 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 17:42:20,064 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_174220.html
+2026-03-16 17:42:23,398 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 17:42:43,810 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:21:53,571 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:00,431 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:04,852 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:06,303 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:06,326 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 21:22:06,533 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 21:22:07,948 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:09,449 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:09,572 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 21:22:09,628 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 21:22:18,171 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:18,239 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 21:22:18,245 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 21:22:18,378 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 21:22:18,399 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:22:27,430 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:29,635 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:29,653 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:22:31,967 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:22:48,290 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:22:48,323 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:22:48,342 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:22:48,347 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:22:56,396 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:24:44,435 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:24:44,646 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:25:00,753 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:25:00,955 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:25:10,411 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:25:12,530 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:25:12,564 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:25:12,584 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:25:12,587 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:25:12,654 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_212512.html
+2026-03-16 21:25:21,064 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:04,070 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:13,297 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:17,961 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:19,574 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:19,601 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 21:34:19,867 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 21:34:21,630 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:23,015 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:23,092 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 21:34:23,143 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 21:34:26,864 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:26,915 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 21:34:26,923 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 21:34:27,121 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 21:34:27,134 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:34:30,638 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:31,886 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:31,900 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:34:33,451 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:34:40,041 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:34:40,076 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:34:40,093 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:34:40,099 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:34:46,587 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:35:23,390 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:35:23,587 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:23,759 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:23,972 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:36,012 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:37,993 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:56,412 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:57,632 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:36:57,667 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:36:57,683 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:36:57,686 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:36:57,733 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_213657.html
+2026-03-16 21:37:06,267 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:11,786 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:15,914 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:20,601 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:21,650 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:21,672 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 21:37:21,815 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 21:37:23,188 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:24,632 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:24,672 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 21:37:24,724 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 21:37:28,832 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:28,872 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 21:37:28,882 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 21:37:28,950 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 21:37:28,966 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:37:39,675 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:41,144 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:41,161 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:37:42,549 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:37:45,971 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:37:46,003 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:37:46,028 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:37:46,036 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:37:51,571 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:38:26,027 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:38:27,069 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:38:27,104 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:38:27,119 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:38:27,123 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:38:27,171 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_213827.html
+2026-03-16 21:38:36,483 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:38:55,049 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:38:55,264 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:39:00,925 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:39:03,288 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:39:03,331 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:39:03,345 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:39:03,348 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:39:03,388 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_213903.html
+2026-03-16 21:39:17,151 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:39:18,991 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:39:19,001 - AI_Auto_Data_Analyst - INFO - Returning 6 dataset recommendations.
+2026-03-16 21:51:25,847 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:30,521 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:39,964 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:41,754 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:41,779 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 21:51:42,266 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 21:51:44,720 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:46,268 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:46,643 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 21:51:46,715 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 21:51:52,155 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:51:52,247 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 21:51:52,252 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 21:51:52,420 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 21:51:52,446 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:52:03,065 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:04,180 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:04,195 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:52:05,671 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:52:11,463 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:11,506 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:52:11,527 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:52:11,532 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:52:16,714 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:27,033 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:29,217 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:29,250 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:52:29,267 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:52:29,271 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:52:29,316 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_215229.html
+2026-03-16 21:52:38,452 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:52:44,096 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:53:30,097 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:53:47,505 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:53:47,545 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 21:53:47,552 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 21:53:47,611 - AI_Auto_Data_Analyst - INFO - Statistics computed for column quantity
+2026-03-16 21:53:47,636 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:53:50,652 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:53:53,041 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:53:55,601 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:06,089 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:07,345 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:07,361 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:55:07,778 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:07,839 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:55:08,884 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:08,901 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:09,637 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:55:09,899 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:55:09,969 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:55:11,617 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:55:12,665 - AI_Auto_Data_Analyst - INFO - Auto-generated 6 charts.
+2026-03-16 21:57:26,199 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:57:27,641 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 21:57:27,676 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 21:57:27,693 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 21:57:27,697 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 21:57:27,760 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\messy_dataset_200_rows_report_20260316_215727.html
+2026-03-16 21:57:35,331 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:09:54,120 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:01,089 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:27,177 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:31,727 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:31,750 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\cleaned netflix dataset.csv
+2026-03-16 22:10:31,895 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 22:10:43,956 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:46,295 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:46,328 - AI_Auto_Data_Analyst - INFO - Dataset automatically cleaned.
+2026-03-16 22:10:46,377 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: cleaned_dataset
+2026-03-16 22:10:55,041 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:10:55,139 - AI_Auto_Data_Analyst - INFO - Basic EDA completed successfully.
+2026-03-16 22:10:55,152 - AI_Auto_Data_Analyst - INFO - KPIs generated successfully.
+2026-03-16 22:10:55,268 - AI_Auto_Data_Analyst - INFO - Statistics computed for column unnamed:_0
+2026-03-16 22:10:55,282 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 22:10:59,590 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:11:24,880 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:11:24,933 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 22:11:25,670 - AI_Auto_Data_Analyst - INFO - Auto-generated 8 charts.
+2026-03-16 22:11:45,226 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:11:45,250 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 22:11:45,273 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 22:11:45,276 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 22:11:48,311 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:11:51,343 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:11:51,370 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 22:11:51,391 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 22:11:51,394 - AI_Auto_Data_Analyst - INFO - Generated 3 insights.
+2026-03-16 22:11:51,496 - AI_Auto_Data_Analyst - INFO - Storytelling HTML report saved to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\reports\cleaned netflix dataset_report_20260316_221151.html
+2026-03-16 22:12:15,230 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 22:12:17,168 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:16,998 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:31,640 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:36,763 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:43,093 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:48,493 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:49,535 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:49,566 - AI_Auto_Data_Analyst - INFO - File uploaded successfully to C:\Users\chira\OneDrive\Desktop\Data Analysis with py\ai-auto-data-analyst\data\raw\messy_dataset_200_rows.csv
+2026-03-16 23:05:49,987 - AI_Auto_Data_Analyst - INFO - Successfully saved dataframe to table: raw_dataset
+2026-03-16 23:05:55,313 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:55,416 - AI_Auto_Data_Analyst - INFO - Dataset summary generated.
+2026-03-16 23:05:55,482 - AI_Auto_Data_Analyst - INFO - Correlation matrix computed using pearson method.
+2026-03-16 23:05:55,486 - AI_Auto_Data_Analyst - INFO - Generated 4 insights.
+2026-03-16 23:05:56,829 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:59,469 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:05:59,607 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:06:05,797 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:06:05,949 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:08:31,968 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:09:00,037 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:09:00,626 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:09:01,641 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.
+2026-03-16 23:09:02,425 - AI_Auto_Data_Analyst - INFO - Database initialized successfully.

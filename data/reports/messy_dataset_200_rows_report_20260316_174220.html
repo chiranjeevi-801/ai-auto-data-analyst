@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Messy_dataset_200_rows Analysis Report</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #0f1117;
+      color: #e0e0e0;
+      line-height: 1.7;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(135deg, #1a1f2e 0%, #252c3b 100%);
+      padding: 48px 64px;
+      border-bottom: 1px solid #2d3650;
+    }
+    header h1 {
+      font-size: 2.4rem;
+      font-weight: 700;
+      background: linear-gradient(90deg, #6366f1, #06b6d4);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+    header p { color: #9ca3af; font-size: 0.95rem; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 48px 32px; }
+    .card {
+      background: #1a1f2e;
+      border: 1px solid #2d3650;
+      border-radius: 12px;
+      padding: 32px;
+      margin-bottom: 32px;
+    }
+    .card h2 { font-size: 1.3rem; font-weight: 600; margin-bottom: 20px;
+                color: #6366f1; border-bottom: 1px solid #2d3650; padding-bottom: 12px; }
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .kpi-card {
+      background: #252c3b;
+      border: 1px solid #2d3650;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+    }
+    .kpi-card .kpi-value { font-size: 1.8rem; font-weight: 700; color: #6366f1; }
+    .kpi-card .kpi-label { font-size: 0.8rem; color: #9ca3af; margin-top: 4px; text-transform: uppercase; letter-spacing: 1px; }
+    ul.insights { list-style: none; padding: 0; }
+    ul.insights li { padding: 12px 16px; margin-bottom: 10px;
+                       background: #252c3b; border-left: 4px solid #6366f1;
+                       border-radius: 0 8px 8px 0; font-size: 0.93rem; }
+    .stats-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    .stats-table th, .stats-table td {
+      padding: 10px 14px; text-align: left;
+      border-bottom: 1px solid #2d3650;
+    }
+    .stats-table th { background: #252c3b; color: #6366f1; font-weight: 600; }
+    .stats-table tr:hover { background: #20263a; }
+    footer { text-align: center; padding: 32px; color: #4b5563; font-size: 0.82rem;
+              border-top: 1px solid #2d3650; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📊 Messy_dataset_200_rows — Data Analysis Report</h1>
+  <p>Generated on 2026-03-16 17:42:20 · AI Auto Data Analyst Platform</p>
+</header>
+
+<div class="container">
+
+  <!-- KPI cards -->
+  <div class="kpi-grid">
+    <div class="kpi-card"><div class="kpi-value">200</div><div class="kpi-label">Total Rows</div></div>
+    <div class="kpi-card"><div class="kpi-value">8</div><div class="kpi-label">Columns</div></div>
+    <div class="kpi-card"><div class="kpi-value">0</div><div class="kpi-label">Missing Values</div></div>
+    <div class="kpi-card"><div class="kpi-value">0</div><div class="kpi-label">Duplicates</div></div>
+    <div class="kpi-card"><div class="kpi-value">2</div><div class="kpi-label">Numeric Cols</div></div>
+    <div class="kpi-card"><div class="kpi-value">6</div><div class="kpi-label">Categorical Cols</div></div>
+  </div>
+
+  <!-- Dataset Summary -->
+  <div class="card">
+    <h2>📋 Dataset Overview</h2>
+    <p><strong>Columns:</strong> <code>product_id</code>, <code>product_name</code>, <code>category</code>, <code>price</code>, <code>quantity</code>, <code>rating</code>, <code>purchase_date</code>, <code>customer_name</code></p>
+    <br/>
+    <p><strong>Numeric Columns:</strong> <code>quantity</code>, <code>rating</code></p>
+    <p><strong>Categorical Columns:</strong> <code>product_id</code>, <code>product_name</code>, <code>category</code>, <code>price</code>, <code>purchase_date</code>, <code>customer_name</code></p>
+  </div>
+
+  <!-- AI Insights -->
+  <div class="card">
+    <h2>🤖 AI-Generated Insights</h2>
+    <ul class="insights">
+      <li>🏷️ Column **product_id** has very high cardinality (184 unique values). Consider encoding or grouping rare values.</li><li>🏷️ Column **price** has very high cardinality (192 unique values). Consider encoding or grouping rare values.</li><li>🏷️ Column **purchase_date** has very high cardinality (193 unique values). Consider encoding or grouping rare values.</li>
+    </ul>
+  </div>
+
+  <!-- Descriptive Statistics -->
+  <div class="card">
+    <h2>📊 Descriptive Statistics</h2>
+    <table class="dataframe stats-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>product_id</th>
+      <th>product_name</th>
+      <th>category</th>
+      <th>price</th>
+      <th>quantity</th>
+      <th>rating</th>
+      <th>purchase_date</th>
+      <th>customer_name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>count</th>
+      <td>200</td>
+      <td>200</td>
+      <td>200</td>
+      <td>200</td>
+      <td>200.000000</td>
+      <td>200.00000</td>
+      <td>200</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <th>unique</th>
+      <td>184</td>
+      <td>8</td>
+      <td>4</td>
+      <td>192</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>193</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th>top</th>
+      <td>P0</td>
+      <td>Headphones</td>
+      <td>electronics</td>
+      <td>unknown</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2020-01-26</td>
+      <td>Bob</td>
+    </tr>
+    <tr>
+      <th>freq</th>
+      <td>17</td>
+      <td>31</td>
+      <td>82</td>
+      <td>8</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>3</td>
+      <td>71</td>
+    </tr>
+    <tr>
+      <th>mean</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7.515000</td>
+      <td>3.02900</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>std</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7.358021</td>
+      <td>1.08153</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>min</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>-5.000000</td>
+      <td>1.00000</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>25%</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.000000</td>
+      <td>2.17500</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>50%</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>8.000000</td>
+      <td>3.00000</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>75%</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>14.000000</td>
+      <td>3.90000</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>max</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>19.000000</td>
+      <td>5.00000</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+</div>
+
+<footer>
+  Powered by <strong>AI Auto Data Analyst</strong> · Report generated at 2026-03-16 17:42:20
+</footer>
+</body>
+</html>
